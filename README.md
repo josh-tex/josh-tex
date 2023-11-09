@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josh-tex
 - 👀 hopes of being a dev.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript
+- 🌱 I’m currently learning html
+- 💞️ I’m looking to be a full stack dev.
 - 📫 How to reach me joshuammaduekwe@gmail.com
 
 <!---
